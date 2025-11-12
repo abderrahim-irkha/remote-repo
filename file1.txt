@@ -1,3 +1,1 @@
-This is a commit demo file 1
-I'm adding a line from the remote
-Adding a comming message
+Removed all lines from the file
