@@ -1,9 +1,1 @@
-<<<<<<< HEAD
-Revert demo 2
-=======
-<<<<<<< HEAD
-Removed all lines from the file
-=======
-Adding this line
->>>>>>> a17953a (feat: Remove all lines from file1.txt [T-2245])
->>>>>>> parent of 0de2dbd (Revert demo 1)
+Git reset demo 1
