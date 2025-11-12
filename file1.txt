@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Removed all lines from the file
-=======
-Adding this line
->>>>>>> a17953a (feat: Remove all lines from file1.txt [T-2245])
+Revert demo 1
