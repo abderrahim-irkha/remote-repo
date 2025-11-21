@@ -1,1 +1,1 @@
-Merge commit 2
+Three way merge demo
