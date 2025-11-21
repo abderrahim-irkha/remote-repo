@@ -1,1 +1,1 @@
-Three way merge demo
+Main branch conflicts content
