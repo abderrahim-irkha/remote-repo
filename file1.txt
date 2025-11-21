@@ -1,1 +1,2 @@
 Main branch conflicts content
+Feature branch conflicts content
